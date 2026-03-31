@@ -1,0 +1,5 @@
+{
+  "name": "Horigoo",
+  "description": "A student wellness and academic support platform inspired by the 'Horigallu' concept. Features non-judgmental AI support, emergency resources, wellness games, and a growing digital forest.",
+  "requestFramePermissions": ["geolocation"]
+}
