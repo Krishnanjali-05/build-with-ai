@@ -1,11 +1,9 @@
 # Project Name
 
 ## Problem Statement
-Explain clearly what problem your project is solving.
-
+Next-Gen AI Assistants
 ## Project Description
-Describe your solution, how it works, and what makes it useful.
-
+Horegoo is a Next-Gen AI Companion that bridges academic success and mental wellness. It summarizes complex content, automates study schedules, and adapts to individual learning styles. With multilingual Malayalam support, it acts as a digital "Horigallu," reducing stress through intelligent, personalized guidance.
 ---
 
 ## Google AI Usage
