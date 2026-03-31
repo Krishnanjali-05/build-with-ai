@@ -1,20 +1,21 @@
-# Project Name
+HOREGOO
 
 ## Problem Statement
-Explain clearly what problem your project is solving.
+Next-Gen AI Assistants
+
 
 ## Project Description
-Describe your solution, how it works, and what makes it useful.
+Horegoo 2.0 is a Next-Gen AI Companion that bridges academic success and mental wellness. It summarizes complex content, automates study schedules, and adapts to individual learning styles. With multilingual Malayalam support, it acts as a digital "Horigallu," reducing stress through intelligent, personalized guidance
 
 ---
 
 ## Google AI Usage
-### Tools / Models Used
-- 
+
+- gemini
+- google AI studio 
 
 ### How Google AI Was Used
-Explain clearly how AI is integrated into your project.
-
+Horegoo leverages the Google AI stack to evolve from a simple support site into a comprehensive Next-Gen AI Assistant. At its core, the project utilizes Gemini 1.5 Flash to provide intelligent customer support through contextual reasoning, allowing it to understand a student's emotional state while processing complex academic requests. The assistant functions as an AI research tool that can explore and summarize entire folders of content, effectively reducing the information overload that often leads to student burnout. By integrating Google’s advanced processing, horegoo automates repetitive digital tasks like timetable generation and transforms into a personalized knowledge companion that adapts its teaching style to the individual user. Furthermore, the project ensures cultural and regional accessibility by providing a multilingual interface with deep support for Malayalam, making high-level technical guidance available to everyone in their mother tongue.
 ---
 
 ## Proof of Google AI Usage
